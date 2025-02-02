@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Can work with</h2>
+<h2 align="left">Current Tech Stack</h2>
 
 ###
 
